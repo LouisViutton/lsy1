@@ -44,5 +44,6 @@ public class SplashiActivity extends AppCompatActivity {
 
             }
         });
+        LoadingView.startAnimation(animation);
     }
 }
